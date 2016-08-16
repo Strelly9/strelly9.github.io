@@ -225,6 +225,9 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x shit ~*y": [
+    "What are we? Wearwolves not Swearwolves"
+  ],
 };
 
 var default_responses = [
